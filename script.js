@@ -14,3 +14,17 @@ console.log(currentYear);
 //Changing the value of a variable later
 currentYear = 2025;
 console.log(currentYear);
+
+//Practice Questions 1
+console.log("Hello, my name is " + myName + ".");
+
+//Practice Questions 2
+favoriteColor = "white";
+favoriteColor = "black";
+console.log(favoriteColor);
+
+//Practice Questions 3
+variable a = 3;
+variable b = 4;
+sum = a+b;
+console.log(sum);
