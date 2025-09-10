@@ -2,7 +2,7 @@
 
 //Lesson 1 : Using console.log() to print a message 
 console.log("Hello, world!");
-console.log("My forst time learning javascript");
+console.log("My first time learning javascript");
 
 //Lesson 2: Storing data in variables 
 let myName = "Ayushi";
