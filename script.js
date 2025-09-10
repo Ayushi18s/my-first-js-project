@@ -24,7 +24,7 @@ favoriteColor = "black";
 console.log(favoriteColor);
 
 //Practice Questions 3
-variable a = 3;
-variable b = 4;
-sum = a+b;
+let a = 3;
+let b = 4;
+let sum = a + b;
 console.log(sum);
